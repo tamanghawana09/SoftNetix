@@ -1,0 +1,8 @@
+@import '/css/reset.css';
+
+body{
+    background-color: black;
+}
+main > section > canvas{
+    background-color: black;
+}
